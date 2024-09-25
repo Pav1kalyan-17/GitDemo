@@ -18,6 +18,7 @@ public class ArmstrongNumber {
 		}else {
 			System.out.println("not a Armstrong number");
 		}
+		System.out.println("Fisrt");
 	}
 
 }
